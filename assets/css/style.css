@@ -1,0 +1,90 @@
+head{
+    margin-top: 0%
+}
+h1{
+    background-color: #4aaaa5;
+    position: absolute;
+    left:150px;
+    color:#ffffff;
+    margin-top: 0%;
+    padding: 10px;
+    height:40px;
+    line-height: 40px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left;
+    overflow: hidden;
+
+}
+
+.topnav {
+    overflow: hidden;
+    border-bottom: #4aaaa5 3px solid; 
+    background-color: #ffffff;
+    font-family:'Georgia', Times, Times New Roman, serif;
+    height:60px;
+    left:0;
+  }
+             .topnav a {
+                position: relative;
+                left: 1000px;
+                color: #8b8888;
+                text-align: left; 
+                padding: 14px 16px;
+                font-size: 17px;
+                text-align: center;
+                     }
+.main-section{
+    width: 650px;
+    height: 600px;
+    position: absolute;
+    background-color: #ffffff;
+    padding: 20px;
+    left:150px;
+    margin: 5px; 
+    
+}
+
+h3{
+    border-bottom: #4aaaa5 6px solid;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+
+}
+body {
+    background-image: url("assets/images/circles-dark.png");
+    background-color: #cccccc;
+  
+
+}
+    
+    
+.sidebar{
+    position: static;
+    line-height: 1;
+    float:right;
+    margin-right:270px;
+    background-color: #ffffff;
+    height: 200px;
+    width: 270px;
+    text-align: center;
+    margin-right: 12%;
+    padding: 50px;
+} 
+
+topline {
+    position:fixed;
+    width: 100%;
+    background: "";
+    border-color: #4aaaa5
+
+}
+footer{
+    background-color: #666666; 
+    color:#cccccc;
+     position: fixed;
+     left:0;
+     bottom: 0;
+     width: 100%;
+     text-align: center;
+     border-top: #4aaaa5 6px solid; 
+}
